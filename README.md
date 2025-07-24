@@ -71,7 +71,25 @@ Unlike many clinical or dataset-only models, this project:
 
 ## 📸 Sample Visuals
 
-> *Scatter plots comparing eye, hand, and head movements of autistic and non-autistic individuals were included in the final report.*
+> *Scatter plots comparing eye, hand, and head movements of autistic and non-autistic individuals. *
+
+- **Scatter Plot for the HEAD of an autistic person:**
+  ![For the head of an autistic person](images/image3.jpeg)
+
+- **Scatter Plot for the HEAD of an non-autistic person:**
+  ![For the head of an non-autistic person](images/image4.jpeg)
+
+- **Scatter Plot for the HAND of an autistic person:**
+  ![For the head of an autistic person](images/image5.jpeg)
+
+- **Scatter Plot for the HAND of an non-autistic person:**
+  ![For the head of an autistic person](images/image6.jpeg)
+
+- **Scatter Plot for the EYE of an autistic person:**
+  ![For the head of an autistic person](images/image7.jpeg)
+
+- **Scatter Plot for the EYE of an non-autistic person:**
+  ![For the head of an autistic person](images/image8.jpeg)
 
 ## 📚 References
 
