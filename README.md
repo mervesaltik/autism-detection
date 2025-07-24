@@ -1,6 +1,6 @@
 # Detecting Autistic Behaviors via Video Analysis
 
-## 🧑‍💻 Developed By
+## 👩🏻‍💻 Developed By
 
 - [Merve Saltık](https://github.com/mervesaltik)
 - [Sude Güzel](https://github.com/sdgzl)
@@ -53,22 +53,13 @@ The system utilizes **OpenCV** for image processing and **Tkinter** to provide a
    - Displays autism likelihood as a percentage  
    - Shows scatter plots for autistic vs. non-autistic behavior  
 
-## 📊 Mathematical Model
+## 💡 Results (Normal vs Autistic Behavior)
+- **Person without Autism:**
+  ![Normal](images/image1.jpeg)
 
-Autism likelihood is computed as a weighted sum of detected behaviors:
+- **Person with Autism:**
+- ![Autism](images/image2.jpeg)
 
-
-Where:
-- `P_autism` is the final score (0–100%)
-- `B1...Bn` are detected behaviors
-- `w1...wn` are predefined behavior weights based on clinical relevance
-
-## 💡 Results
-
-- High accuracy in face and motion detection under varied conditions  
-- Successfully identified key behaviors linked to autism  
-- Scored over 40% for individuals with known ASD traits  
-- Scored under 10% for neurotypical individuals  
 
 ## 🔍 Comparison with Other Studies
 
@@ -77,20 +68,6 @@ Unlike many clinical or dataset-only models, this project:
 - Provides **real-time behavior detection**
 - Offers a **personalized, accessible experience**  
 - Bridges clinical insight with practical home use  
-
-## 🚧 Limitations
-
-- Behavior detection is currently limited to 3 patterns  
-- Sensitive to video quality (lighting, resolution)  
-- Requires offline video upload (not real-time yet)  
-- Training dataset diversity may affect generalization
-
-## 🚀 Future Work
-
-- Develop a mobile version  
-- Integrate **voice analysis** as an additional ASD indicator  
-- Add detection for **foot movements**, **name response**, and **facial expression cues**  
-- Offer personalized support via **interactive tools** (games, blogs, routines)
 
 ## 📸 Sample Visuals
 
