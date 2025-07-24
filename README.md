@@ -69,7 +69,7 @@ Unlike many clinical or dataset-only models, this project:
 - Offers a **personalized, accessible experience**  
 - Bridges clinical insight with practical home use  
 
-## 📸 Sample Visuals
+## 📸 Scatter Plots
 
 > *Scatter plots comparing eye, hand, and head movements of autistic and non-autistic individuals. *
 
@@ -90,15 +90,6 @@ Unlike many clinical or dataset-only models, this project:
 
 - **Scatter Plot for the EYE of an non-autistic person:**
   ![For the head of an autistic person](images/image8.png)
-
-## 📚 References
-
-Key references include studies on:
-- Deep learning for facial recognition  
-- Gaze and expression-based ASD diagnosis  
-- AI-powered behavior tracking systems
-
-(See full list in the final report or citation section.)
 
 ---
 
