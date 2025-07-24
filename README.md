@@ -3,7 +3,7 @@
 ## 🧑‍💻 Developed By
 
 - [Merve Saltık](https://github.com/mervesaltik)
-- [Sude Güzel](https://github.com/sdgzl))
+- [Sude Güzel](https://github.com/sdgzl)
 - [Aleyna Menekşe](https://github.com/Aleynamnks)  
 
 This project aims to detect autistic behaviors through video analysis by identifying subtle body language and facial expressions using computer vision and machine learning techniques. It provides a non-invasive, efficient, and user-friendly tool that can assist in the early diagnosis and monitoring of Autism Spectrum Disorder (ASD).
